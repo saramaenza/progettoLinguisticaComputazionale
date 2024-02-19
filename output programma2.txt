@@ -1,0 +1,672 @@
+PUNTO 1: estraete ed ordinate in ordine di frequenza decrescente, indicando anche la relativa frequenza
+i 20 token più frequenti escludendo la punteggiatura del file positivo.txt : 
+I 	occorrenza 245
+the 	occorrenza 222
+to 	occorrenza 163
+a 	occorrenza 145
+and 	occorrenza 135
+it 	occorrenza 99
+is 	occorrenza 70
+of 	occorrenza 69
+with 	occorrenza 66
+that 	occorrenza 65
+this 	occorrenza 61
+for 	occorrenza 60
+but 	occorrenza 60
+on 	occorrenza 55
+n't 	occorrenza 53
+have 	occorrenza 50
+you 	occorrenza 48
+game 	occorrenza 47
+my 	occorrenza 43
+was 	occorrenza 43
+in 	occorrenza 41
+
+i 20 token più frequenti escludendo la punteggiatura del file negativo.txt : 
+the 	occorrenza 184
+I 	occorrenza 163
+to 	occorrenza 135
+and 	occorrenza 133
+a 	occorrenza 107
+it 	occorrenza 102
+of 	occorrenza 82
+is 	occorrenza 72
+this 	occorrenza 64
+in 	occorrenza 59
+for 	occorrenza 52
+that 	occorrenza 48
+my 	occorrenza 43
+on 	occorrenza 43
+not 	occorrenza 42
+have 	occorrenza 37
+with 	occorrenza 34
+was 	occorrenza 31
+n't 	occorrenza 30
+you 	occorrenza 26
+from 	occorrenza 26
+
+
+
+i 20 sostantivi più frequenti del file positivo.txt : 
+game 	occorrenza 47
+PC 	occorrenza 33
+gaming 	occorrenza 32
+settings 	occorrenza 30
+one 	occorrenza 27
+max 	occorrenza 17
+games 	occorrenza 17
+– 	occorrenza 14
+review 	occorrenza 14
+mouse 	occorrenza 14
+FPS 	occorrenza 14
+machine 	occorrenza 13
+play 	occorrenza 13
+computer 	occorrenza 13
+fans 	occorrenza 13
+things 	occorrenza 12
+use 	occorrenza 11
+keyboard 	occorrenza 11
+thing 	occorrenza 11
+off 	occorrenza 10
+performance 	occorrenza 9
+
+i 20 sostantivi più frequenti del file negativo.txt : 
+product 	occorrenza 21
+one 	occorrenza 21
+’ 	occorrenza 19
+music 	occorrenza 16
+computer 	occorrenza 14
+face 	occorrenza 13
+work 	occorrenza 12
+s 	occorrenza 12
+Bieber 	occorrenza 10
+ingredients 	occorrenza 10
+support 	occorrenza 9
+way 	occorrenza 9
+mask 	occorrenza 9
+today 	occorrenza 8
+Justin 	occorrenza 8
+time 	occorrenza 8
+try 	occorrenza 7
+talent 	occorrenza 7
+days 	occorrenza 7
+starch 	occorrenza 7
+anything 	occorrenza 7
+
+
+
+i 20 aggettivi più frequenti del file positivo.txt : 
+gaming 	occorrenza 32
+max 	occorrenza 17
+good 	occorrenza 15
+more 	occorrenza 15
+only 	occorrenza 10
+first 	occorrenza 10
+able 	occorrenza 10
+little 	occorrenza 9
+i 	occorrenza 9
+front 	occorrenza 8
+most 	occorrenza 8
+frame-rate 	occorrenza 8
+other 	occorrenza 7
+Windows 	occorrenza 7
+WiFi 	occorrenza 6
+cool 	occorrenza 6
+red 	occorrenza 6
+own 	occorrenza 6
+few 	occorrenza 6
+graphic 	occorrenza 6
+nice 	occorrenza 6
+
+i 20 aggettivi più frequenti del file negativo.txt : 
+more 	occorrenza 20
+’ 	occorrenza 19
+s 	occorrenza 12
+only 	occorrenza 11
+first 	occorrenza 11
+new 	occorrenza 10
+other 	occorrenza 8
+better 	occorrenza 7
+great 	occorrenza 7
+same 	occorrenza 7
+disappointed 	occorrenza 6
+acne 	occorrenza 6
+good 	occorrenza 6
+t 	occorrenza 6
+long 	occorrenza 6
+few 	occorrenza 6
+much 	occorrenza 6
+high 	occorrenza 6
+skin 	occorrenza 5
+personal 	occorrenza 5
+
+
+
+I 20 bigrammi di token più frequenti che non contengono punteggiatura, articoli e congiunzioni nel file:  positivo.txt
+(u'do', u"n't") 	occorrenza 19
+(u'I', u'did') 	occorrenza 16
+(u'I', u'have') 	occorrenza 16
+(u'max', u'settings') 	occorrenza 16
+(u'I', u'do') 	occorrenza 15
+(u'it', u"'s") 	occorrenza 14
+(u'I', u'was') 	occorrenza 14
+(u'did', u"n't") 	occorrenza 13
+(u'so', u'I') 	occorrenza 13
+(u'to', u'be') 	occorrenza 12
+(u'I', u"'m") 	occorrenza 12
+(u'to', u'get') 	occorrenza 11
+(u'I', u'would') 	occorrenza 11
+(u'I', u'could') 	occorrenza 10
+(u'able', u'to') 	occorrenza 10
+(u'to', u'run') 	occorrenza 9
+(u'to', u'see') 	occorrenza 8
+(u'I', u'can') 	occorrenza 8
+(u'it', u'was') 	occorrenza 8
+(u'would', u'be') 	occorrenza 8
+(u'would', u'like') 	occorrenza 7
+
+I 20 bigrammi di token più frequenti che non contengono punteggiatura, articoli e congiunzioni nel file:  negativo.txt
+(u'I', u'am') 	occorrenza: 13
+(u'to', u'be') 	occorrenza: 12
+(u'\u2019', u's') 	occorrenza: 12
+(u'is', u'not') 	occorrenza: 10
+(u'I', u"'m") 	occorrenza: 9
+(u'I', u'had') 	occorrenza: 8
+(u'my', u'face') 	occorrenza: 8
+(u'I', u'have') 	occorrenza: 7
+(u'did', u"n't") 	occorrenza: 7
+(u'it', u'was') 	occorrenza: 7
+(u'I', u'would') 	occorrenza: 7
+(u'I', u'really') 	occorrenza: 6
+(u'so', u'I') 	occorrenza: 6
+(u'\u2019', u't') 	occorrenza: 6
+(u'is', u'just') 	occorrenza: 5
+(u'did', u'not') 	occorrenza: 5
+(u'trying', u'to') 	occorrenza: 5
+(u'ca', u"n't") 	occorrenza: 5
+(u'I', u"'ve") 	occorrenza: 5
+(u'he', u"'s") 	occorrenza: 5
+(u'had', u'to') 	occorrenza: 5
+
+
+
+I 10 Pos (Part-of-Speech) più frequenti del file positivo.txt :
+NN 	occorrenza 747
+IN 	occorrenza 626
+DT 	occorrenza 576
+PRP 	occorrenza 468
+JJ 	occorrenza 430
+RB 	occorrenza 412
+, 	occorrenza 390
+VB 	occorrenza 316
+NNP 	occorrenza 287
+. 	occorrenza 277
+NNS 	occorrenza 242
+
+I 10 Pos (Part-of-Speech) più frequenti del file negativo.txt :
+NN 	occorrenza 768
+IN 	occorrenza 553
+DT 	occorrenza 484
+PRP 	occorrenza 419
+RB 	occorrenza 419
+JJ 	occorrenza 372
+. 	occorrenza 330
+NNP 	occorrenza 282
+, 	occorrenza 252
+VB 	occorrenza 231
+NNS 	occorrenza 211
+
+
+
+I 10 bigrammi di POS (Part-of-Speech) più frequenti del file: positivo.txt
+('DT', 'NN') 	occorrenza 261
+('IN', 'DT') 	occorrenza 209
+('JJ', 'NN') 	occorrenza 137
+('NN', 'IN') 	occorrenza 131
+('TO', 'VB') 	occorrenza 125
+('PRP', 'VBP') 	occorrenza 125
+('DT', 'JJ') 	occorrenza 122
+(',', 'CC') 	occorrenza 122
+('PRP', 'VBD') 	occorrenza 114
+('NN', ',') 	occorrenza 112
+('MD', 'VB') 	occorrenza 101
+
+I 10 bigrammi di POS (Part-of-Speech) più frequenti del file: negativo.txt
+('DT', 'NN') 	occorrenza 236
+('IN', 'DT') 	occorrenza 171
+('NN', 'IN') 	occorrenza 136
+('JJ', 'NN') 	occorrenza 122
+('NN', '.') 	occorrenza 116
+('NN', 'NN') 	occorrenza 96
+('DT', 'JJ') 	occorrenza 96
+('TO', 'VB') 	occorrenza 95
+('.', 'PRP') 	occorrenza 94
+('PRP', 'VBD') 	occorrenza 92
+('PRP', 'VBP') 	occorrenza 89
+
+
+
+I 10 trigrammi di POS (Part-of-Speech) più frequenti del file: positivo.txt
+('IN', 'DT', 'NN') 	occorrenza 105
+('DT', 'JJ', 'NN') 	occorrenza 74
+('PRP', 'MD', 'VB') 	occorrenza 64
+('DT', 'NN', 'IN') 	occorrenza 58
+('NN', 'IN', 'DT') 	occorrenza 55
+(',', 'CC', 'PRP') 	occorrenza 39
+('NN', ',', 'CC') 	occorrenza 37
+('DT', 'NN', '.') 	occorrenza 34
+('IN', 'DT', 'JJ') 	occorrenza 33
+('VB', 'DT', 'NN') 	occorrenza 33
+('TO', 'VB', 'DT') 	occorrenza 32
+
+I 10 trigrammi di POS (Part-of-Speech) più frequenti del file: negativo.txt
+('IN', 'DT', 'NN') 	occorrenza 88
+('DT', 'JJ', 'NN') 	occorrenza 57
+('DT', 'NN', 'IN') 	occorrenza 50
+('NN', 'IN', 'DT') 	occorrenza 36
+('.', 'PRP', 'VBD') 	occorrenza 36
+('NNP', ',', 'NNP') 	occorrenza 34
+('IN', 'DT', 'JJ') 	occorrenza 33
+('NN', '.', 'PRP') 	occorrenza 33
+('NNP', 'NNP', ',') 	occorrenza 32
+('DT', 'NN', 'NN') 	occorrenza 29
+('IN', 'PRP$', 'NN') 	occorrenza 29
+
+
+
+PUNTO 2: Estraete ed ordinate in ordine decrescente i 20 bigrammi composti da aggettivo e sostantivo (dove ogni token deve avere una frequenza maggiore di 2):
+
+File: positivo.txt
+---con frequenza massima, indicando anche la frequenza di ogni parola che compone il bigramma:
+File: positivo.txt
+(u'graphical', u'settings') 	occorrenza 4
+graphical 	occorrenza 4
+settings 	occorrenza 30
+
+(u'graphic', u'card') 	occorrenza 3
+graphic 	occorrenza 6
+card 	occorrenza 5
+
+(u'different', u'cooler') 	occorrenza 2
+different 	occorrenza 4
+cooler 	occorrenza 4
+
+(u'front', u'panel') 	occorrenza 2
+front 	occorrenza 8
+panel 	occorrenza 5
+
+(u'few', u'exceptions') 	occorrenza 2
+few 	occorrenza 6
+exceptions 	occorrenza 3
+
+(u'few', u'months') 	occorrenza 2
+few 	occorrenza 6
+months 	occorrenza 3
+
+(u'good', u'frame-rates') 	occorrenza 2
+good 	occorrenza 15
+frame-rates 	occorrenza 3
+
+(u'old', u'game') 	occorrenza 2
+old 	occorrenza 5
+game 	occorrenza 47
+
+(u'intense', u'games') 	occorrenza 2
+intense 	occorrenza 4
+games 	occorrenza 17
+
+(u'larger', u'HDD') 	occorrenza 2
+larger 	occorrenza 3
+HDD 	occorrenza 8
+
+(u'intense', u'gaming') 	occorrenza 2
+intense 	occorrenza 4
+gaming 	occorrenza 32
+
+(u'free', u'RAM') 	occorrenza 1
+free 	occorrenza 3
+RAM 	occorrenza 7
+
+(u'pre-built', u'gaming') 	occorrenza 1
+pre-built 	occorrenza 4
+gaming 	occorrenza 32
+
+(u'great', u'mouse') 	occorrenza 1
+great 	occorrenza 3
+mouse 	occorrenza 14
+
+(u'good', u'gaming') 	occorrenza 1
+good 	occorrenza 15
+gaming 	occorrenza 32
+
+(u'good', u'way') 	occorrenza 1
+good 	occorrenza 15
+way 	occorrenza 4
+
+(u'other', u'Steam') 	occorrenza 1
+other 	occorrenza 7
+Steam 	occorrenza 8
+
+(u'decent', u'money') 	occorrenza 1
+decent 	occorrenza 5
+money 	occorrenza 4
+
+(u'dual', u'fans') 	occorrenza 1
+dual 	occorrenza 3
+fans 	occorrenza 13
+
+(u'single', u'stick') 	occorrenza 1
+single 	occorrenza 3
+stick 	occorrenza 5
+
+(u'main', u'things') 	occorrenza 1
+main 	occorrenza 3
+things 	occorrenza 12
+
+File: positivo.txt
+(u'tech', u'support') 	occorrenza 3
+tech 	occorrenza 3
+support 	occorrenza 9
+
+(u'same', u'thing') 	occorrenza 2
+same 	occorrenza 7
+thing 	occorrenza 6
+
+(u'hard', u'drive') 	occorrenza 2
+hard 	occorrenza 3
+drive 	occorrenza 3
+
+(u'new', u'power') 	occorrenza 2
+new 	occorrenza 10
+power 	occorrenza 5
+
+(u'young', u'people') 	occorrenza 2
+young 	occorrenza 4
+people 	occorrenza 4
+
+(u'low', u'price') 	occorrenza 2
+low 	occorrenza 3
+price 	occorrenza 4
+
+(u'other', u'masks') 	occorrenza 1
+other 	occorrenza 8
+masks 	occorrenza 3
+
+(u'high', u'quality') 	occorrenza 1
+high 	occorrenza 6
+quality 	occorrenza 3
+
+(u'other', u'way') 	occorrenza 1
+other 	occorrenza 8
+way 	occorrenza 9
+
+(u'best', u'parts') 	occorrenza 1
+best 	occorrenza 3
+parts 	occorrenza 5
+
+(u'real', u'issues') 	occorrenza 1
+real 	occorrenza 3
+issues 	occorrenza 4
+
+(u'different', u'ingredients') 	occorrenza 1
+different 	occorrenza 4
+ingredients 	occorrenza 10
+
+(u'best', u'mask') 	occorrenza 1
+best 	occorrenza 3
+mask 	occorrenza 9
+
+(u'extra', u'fast') 	occorrenza 1
+extra 	occorrenza 3
+fast 	occorrenza 3
+
+(u'new', u'mud') 	occorrenza 1
+new 	occorrenza 10
+mud 	occorrenza 3
+
+(u'full', u'days') 	occorrenza 1
+full 	occorrenza 4
+days 	occorrenza 7
+
+(u'top', u'ingredients') 	occorrenza 1
+top 	occorrenza 4
+ingredients 	occorrenza 10
+
+(u'full', u'time') 	occorrenza 1
+full 	occorrenza 4
+time 	occorrenza 8
+
+(u'real', u'singers') 	occorrenza 1
+real 	occorrenza 3
+singers 	occorrenza 3
+
+(u'same', u'product') 	occorrenza 1
+same 	occorrenza 7
+product 	occorrenza 21
+
+(u'long', u'time') 	occorrenza 1
+long 	occorrenza 6
+time 	occorrenza 8
+
+
+
+---con probabilità congiunta massima, indicando anche la relativa frequenza:
+File: positivo.txt
+(u'good', u'gaming') 	probabilita congiunta: 4.18453765513e-06
+good 	probabilità: 0.00229990800368
+gaming 	probabilità: 0.00490647040785
+
+(u'first', u'PC') 	probabilita congiunta: 4.18453765513e-06
+first 	probabilità: 0.00153327200245
+PC 	probabilità: 0.0050597976081
+
+(u'old', u'game') 	probabilita congiunta: 4.18453765513e-06
+old 	probabilità: 0.000766636001227
+game 	probabilità: 0.00720637841153
+
+(u'own', u'gaming') 	probabilita congiunta: 4.18453765513e-06
+own 	probabilità: 0.000919963201472
+gaming 	probabilità: 0.00490647040785
+
+(u'graphic', u'settings') 	probabilita congiunta: 4.18453765513e-06
+graphic 	probabilità: 0.000919963201472
+settings 	probabilità: 0.00459981600736
+
+(u'old', u'gaming') 	probabilita congiunta: 4.18453765513e-06
+old 	probabilità: 0.000766636001227
+gaming 	probabilità: 0.00490647040785
+
+(u'popular', u'game') 	probabilita congiunta: 4.18453765513e-06
+popular 	probabilità: 0.000459981600736
+game 	probabilità: 0.00720637841153
+
+(u'pre-built', u'gaming') 	probabilita congiunta: 4.18453765513e-06
+pre-built 	probabilità: 0.000613308800981
+gaming 	probabilità: 0.00490647040785
+
+(u'intense', u'gaming') 	probabilita congiunta: 4.18453765513e-06
+intense 	probabilità: 0.000613308800981
+gaming 	probabilità: 0.00490647040785
+
+(u'high', u'settings') 	probabilita congiunta: 4.18453765513e-06
+high 	probabilità: 0.000613308800981
+settings 	probabilità: 0.00459981600736
+
+(u'good', u'look') 	probabilita congiunta: 4.18453765513e-06
+good 	probabilità: 0.00229990800368
+look 	probabilità: 0.00122661760196
+
+(u'graphical', u'settings') 	probabilita congiunta: 4.18453765513e-06
+graphical 	probabilità: 0.000613308800981
+settings 	probabilità: 0.00459981600736
+
+(u'other', u'games') 	probabilita congiunta: 4.18453765513e-06
+other 	probabilità: 0.00107329040172
+games 	probabilità: 0.00260656240417
+
+(u'free', u'gaming') 	probabilita congiunta: 4.18453765513e-06
+free 	probabilità: 0.000459981600736
+gaming 	probabilità: 0.00490647040785
+
+(u'happy', u'gaming') 	probabilita congiunta: 4.18453765513e-06
+happy 	probabilità: 0.000459981600736
+gaming 	probabilità: 0.00490647040785
+
+(u'little', u'time') 	probabilita congiunta: 4.18453765513e-06
+little 	probabilità: 0.00137994480221
+time 	probabilità: 0.00122661760196
+
+(u'intense', u'games') 	probabilita congiunta: 4.18453765513e-06
+intense 	probabilità: 0.000613308800981
+games 	probabilità: 0.00260656240417
+
+(u'decent', u'machine') 	probabilita congiunta: 4.18453765513e-06
+decent 	probabilità: 0.000766636001227
+machine 	probabilità: 0.00199325360319
+
+(u'same', u'fans') 	probabilita congiunta: 4.18453765513e-06
+same 	probabilità: 0.000766636001227
+fans 	probabilità: 0.00199325360319
+
+(u'good', u'way') 	probabilita congiunta: 4.18453765513e-06
+good 	probabilità: 0.00229990800368
+way 	probabilità: 0.000613308800981
+
+(u'good', u'graphical') 	probabilita congiunta: 4.18453765513e-06
+good 	probabilità: 0.00229990800368
+graphical 	probabilità: 0.000613308800981
+
+File: negativo.txt
+(u'same', u'product') 	probabilita congiunta: 4.18453765513e-06
+same 	probabilità: 0.00107329040172
+product 	probabilità: 0.00321987120515
+(u'other', u'way') 	probabilita congiunta: 4.18453765513e-06
+other 	probabilità: 0.00122661760196
+way 	probabilità: 0.00137994480221
+(u'amazon', u'product') 	probabilita congiunta: 4.18453765513e-06
+amazon 	probabilità: 0.000459981600736
+product 	probabilità: 0.00321987120515
+(u'new', u'power') 	probabilita congiunta: 4.18453765513e-06
+new 	probabilità: 0.00153327200245
+power 	probabilità: 0.000766636001227
+(u'long', u'time') 	probabilita congiunta: 4.18453765513e-06
+long 	probabilità: 0.000919963201472
+time 	probabilità: 0.00122661760196
+(u'real', u'music') 	probabilita congiunta: 4.18453765513e-06
+real 	probabilità: 0.000459981600736
+music 	probabilità: 0.00245323520393
+(u'same', u'thing') 	probabilita congiunta: 4.18453765513e-06
+same 	probabilità: 0.00107329040172
+thing 	probabilità: 0.000919963201472
+(u'different', u'ingredients') 	probabilita congiunta: 4.18453765513e-06
+different 	probabilità: 0.000613308800981
+ingredients 	probabilità: 0.00153327200245
+(u'top', u'ingredients') 	probabilita congiunta: 4.18453765513e-06
+top 	probabilità: 0.000613308800981
+ingredients 	probabilità: 0.00153327200245
+(u'full', u'time') 	probabilita congiunta: 4.18453765513e-06
+full 	probabilità: 0.000613308800981
+time 	probabilità: 0.00122661760196
+(u'new', u'mud') 	probabilita congiunta: 4.18453765513e-06
+new 	probabilità: 0.00153327200245
+mud 	probabilità: 0.000459981600736
+(u'new', u'graphics') 	probabilita congiunta: 4.18453765513e-06
+new 	probabilità: 0.00153327200245
+graphics 	probabilità: 0.000459981600736
+(u'full', u'days') 	probabilita congiunta: 4.18453765513e-06
+full 	probabilità: 0.000613308800981
+days 	probabilità: 0.00107329040172
+(u'same', u'issues') 	probabilita congiunta: 4.18453765513e-06
+same 	probabilità: 0.00107329040172
+issues 	probabilità: 0.000613308800981
+(u'tech', u'support') 	probabilita congiunta: 4.18453765513e-06
+tech 	probabilità: 0.000459981600736
+support 	probabilità: 0.00137994480221
+(u'best', u'mask') 	probabilita congiunta: 4.18453765513e-06
+best 	probabilità: 0.000459981600736
+mask 	probabilità: 0.00137994480221
+(u'other', u'masks') 	probabilita congiunta: 4.18453765513e-06
+other 	probabilità: 0.00122661760196
+masks 	probabilità: 0.000459981600736
+(u'few', u'years') 	probabilita congiunta: 4.18453765513e-06
+few 	probabilità: 0.000919963201472
+years 	probabilità: 0.000613308800981
+(u'good', u'day') 	probabilita congiunta: 4.18453765513e-06
+good 	probabilità: 0.000919963201472
+day 	probabilità: 0.000613308800981
+(u'personal', u'life') 	probabilita congiunta: 4.18453765513e-06
+personal 	probabilità: 0.000766636001227
+life 	probabilità: 0.000613308800981
+(u'high', u'quality') 	probabilita congiunta: 4.18453765513e-06
+high 	probabilità: 0.000919963201472
+quality 	probabilità: 0.000459981600736
+
+
+---con local mutual information:
+File: positivo.txt
+(u'graphic', u'card') 	local mutual information: 8.49711086906e-05
+(u'graphical', u'settings') 	local mutual information: 8.49711086906e-05
+(u'different', u'cooler') 	local mutual information: 8.49711086906e-05
+(u'few', u'exceptions') 	local mutual information: 8.49711086906e-05
+(u'few', u'months') 	local mutual information: 8.49711086906e-05
+(u'larger', u'HDD') 	local mutual information: 8.49711086906e-05
+(u'front', u'panel') 	local mutual information: 8.49711086906e-05
+(u'good', u'frame-rates') 	local mutual information: 8.49711086906e-05
+(u'intense', u'games') 	local mutual information: 8.49711086906e-05
+(u'higher', u'resolutions') 	local mutual information: 8.49711086906e-05
+(u'dual', u'channel') 	local mutual information: 8.49711086906e-05
+(u'big', u'Thor') 	local mutual information: 8.49711086906e-05
+(u'main', u'E-Sports') 	local mutual information: 8.49711086906e-05
+(u'single', u'hiccup') 	local mutual information: 8.49711086906e-05
+(u'wobble', u'quite') 	local mutual information: 8.49711086906e-05
+(u'dual', u'vid') 	local mutual information: 8.49711086906e-05
+(u'double-click', u'button') 	local mutual information: 8.49711086906e-05
+(u'auto-configure', u'button') 	local mutual information: 8.49711086906e-05
+(u'pre-built', u'vs.') 	local mutual information: 8.49711086906e-05
+(u'real', u'quick') 	local mutual information: 8.49711086906e-05
+(u'real', u'punch') 	local mutual information: 8.49711086906e-05
+
+File: negativo.txt
+(u'exact', u'time') 	local mutual information: 8.49711086906e-05
+(u'young', u'adults') 	local mutual information: 8.49711086906e-05
+(u'tech', u'support') 	local mutual information: 8.49711086906e-05
+(u'last', u'year') 	local mutual information: 8.49711086906e-05
+(u'modern', u'music') 	local mutual information: 8.49711086906e-05
+(u'other', u'way') 	local mutual information: 8.49711086906e-05
+(u'hard', u'drive') 	local mutual information: 8.49711086906e-05
+(u'best', u'mask') 	local mutual information: 8.49711086906e-05
+(u'full', u'days') 	local mutual information: 8.49711086906e-05
+(u'top', u'ingredients') 	local mutual information: 8.49711086906e-05
+(u'diary', u'masks') 	local mutual information: 8.49711086906e-05
+(u'update', u'drivers') 	local mutual information: 8.49711086906e-05
+(u'newer', u'motherboard') 	local mutual information: 8.49711086906e-05
+(u'few', u'tracks') 	local mutual information: 8.49711086906e-05
+(u'amazing', u'waffles') 	local mutual information: 8.49711086906e-05
+(u'common', u'issue') 	local mutual information: 8.49711086906e-05
+(u'personal', u'enjoyment') 	local mutual information: 8.49711086906e-05
+(u'low', u'price') 	local mutual information: 8.49711086906e-05
+(u'own', u'voice') 	local mutual information: 8.49711086906e-05
+(u'personal', u'feelings') 	local mutual information: 8.49711086906e-05
+(u'good', u'urban') 	local mutual information: 8.49711086906e-05
+
+
+
+PUNTO 3:
+File positivo.txt
+Markov di ordine 0
+	La frase con probabilità più alta: [u';', u')']
+	probabilità: 0.00137994480221
+
+Markov di ordine 1
+	La frase con probabilità più alta: ;)
+	probabilità: 0.000153327200245
+
+
+File negativo.txt
+Markov di ordine 0
+	La frase con probabilità più alta: [u'I', u'suggest', u'you', u'try', u'some', u'Otis', u'Redding', u'instead', u'.']
+	probabilità: 0.0
+
+Markov di ordine 1
+	La frase con probabilità più alta: I'm really disappointed.
+	probabilità: 1.95277106025e-07

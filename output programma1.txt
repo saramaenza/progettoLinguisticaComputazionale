@@ -1,0 +1,38 @@
+PUNTO 1: il numero totale di frasi e di token
+Il file negativo.txt ha in totale 321.0 frasi e 5927 token
+Il file positivo.txt ha in totale 278.0 frasi e 6522 token
+
+PUNTO 2: la lunghezza media delle frasi in termini di token e la lunghezza media delle parole in termini di caratteri
+Lunghezza media delle frasi in termini di token del file negativo.txt --- 18.4641744548
+Lunghezza media delle parole in termini di caratteri del file negativo.txt --- 4.11111111111
+Lunghezza media delle frasi in termini di token del file positivo.txt --- 23.4604316547
+Lunghezza media delle parole in termini di caratteri del file positivo.txt --- 1.0
+
+PUNTO 3: la grandezza del vocabolario e la Type Token Ratio (TTR) all'aumentare del corpus per porzioni incrementali di 1000 token (1000 token, 2000 token, 3000 token, etc.)
+File: negativo.txt 	grandezza vocabolario 1677
+TTR a 1000 token: 0.473
+TTR a 2000 token: 0.3505
+TTR a 3000 token: 0.312666666667
+TTR a 4000 token: 0.30075
+TTR a 5000 token: 0.294
+File: positivo.txt 	grandezza vocabolario 1438
+
+PUNTO 4: la grandezza delle classi di frequenza |v3|, |v6|, e |v9| sui primi 5000 token:
+File: negativo.txt 	|v3|= 121.0 	|v6|= 34.0 	|v9|= 12.0
+File: positivo.txt 	|v3|= 106.0 	|v3|= 28.0 	|v3|= 9.0
+
+PUNTO 5: il numero medio di Sostantivi, Aggettivi e Verbi per frase:
+File:  negativo.txt
+	Numero medio di sostantivi per frase: 3.92834890966
+	Numero medio di aggettivi per frase: 1.32087227414
+	Numero medio di verbi per frase: 2.98130841121
+File:  positivo.txt
+	Numero medio di sostantivi per frase: 4.59712230216
+	Numero medio di aggettivi per frase: 1.67985611511
+	Numero medio di verbi per frase: 3.68705035971
+
+PUNTO 6: la densità lessicale, calcolata come il rapporto tra il numero totale di occorrenze nel testo di Sostantivi, Verbi, Avverbi, Aggettivi e il numero totale di parole nel testo (ad esclusione dei segni di punteggiatura marcati con POS , e .):
+Densità lessicale del file:  negativo.txt
+	0.574368568756
+Densità lessicale del file:  negativo.txt
+	0.648163962425
